@@ -1,0 +1,15 @@
+C:\Code\DIO_Netflix\bin\Debug\net7.0\DIO_Netflix.exe
+C:\Code\DIO_Netflix\bin\Debug\net7.0\DIO_Netflix.deps.json
+C:\Code\DIO_Netflix\bin\Debug\net7.0\DIO_Netflix.runtimeconfig.json
+C:\Code\DIO_Netflix\bin\Debug\net7.0\DIO_Netflix.dll
+C:\Code\DIO_Netflix\bin\Debug\net7.0\DIO_Netflix.pdb
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.csproj.AssemblyReference.cache
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.AssemblyInfoInputs.cache
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.AssemblyInfo.cs
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.csproj.CoreCompileInputs.cache
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.dll
+C:\Code\DIO_Netflix\obj\Debug\net7.0\refint\DIO_Netflix.dll
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.pdb
+C:\Code\DIO_Netflix\obj\Debug\net7.0\DIO_Netflix.genruntimeconfig.cache
+C:\Code\DIO_Netflix\obj\Debug\net7.0\ref\DIO_Netflix.dll
